@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @arianabdollahian
+- 👋 Hi, I’m arax
+- (my official name is Arian)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning django ...
 - 📫 How to reach me ...? my email
