@@ -1,11 +1,1 @@
-- 👋 Hi, I’m arax
-- (my official name is Arian)
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning django and rest_framework ...
-- 📫 How to reach me ...? my email : arianabdollahian@gmail.com
-- I’m currently doing a project that is a shop with django and it is comming soon...
-
-<!---
-arianabdollahian/arianabdollahian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend-focused developer with strong expertise in Python (Django, Flask) and JavaScript. Experience in building REST APIs, server-side logic, and basic Linux server management. Familiar with modern frontend frameworks (React/Vue/Next.js) but primarily work with vanilla JS for frontend needs.
